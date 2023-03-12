@@ -50,10 +50,11 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/felipeAguiarCode/node-chatgpt-api
+$ git clone https://github.com/iurioliveira914/chat-gpt.git
 
 # Go into the repository
-$ cd node-chatgpt-api
+$ cd chat-gpt
+$ cd server
 
 # Install dependencies
 $ npm install
